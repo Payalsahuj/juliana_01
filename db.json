@@ -645,6 +645,44 @@
         "shade9": "#710817",
         "image10": null,
         "shade10": "#521a14"
+      },
+      {
+        "id": 10,
+        "name": "Lip Service Tint Remover",
+        "price": 340,
+        "type": [
+          "tint remover"
+        ],
+        "feature": [],
+        "finish": "",
+        "shade": 1,
+        "formulation": [],
+        "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-lip-service-tint-remover-28122580910163.jpg%3Fv%3D1619155575&w=256&q=75",
+        "image1": [
+          "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-tint-remover-28122580910163.jpg?v=1619155575",
+          "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-tint-remover-28003084566611.jpg?v=1619155577",
+          "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-tint-remover-28015493349459.jpg?v=1619155579",
+          "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-lip-service-tint-remover-28015232122963.jpg?v=1619155581"
+        ],
+        "shade1": "#c1002c",
+        "image2": null,
+        "shade2": "#b4195f",
+        "image3": null,
+        "shade3": "#be544d",
+        "image4": null,
+        "shade4": "#b43444",
+        "image5": null,
+        "shade5": "#9c444b",
+        "image6": null,
+        "shade6": "#a53c3e",
+        "image7": null,
+        "shade7": "#85141c",
+        "image8": null,
+        "shade8": "#be493f",
+        "image9": null,
+        "shade9": "#710817",
+        "image10": null,
+        "shade10": "#521a14"
       }
     ],
     "registeredUser": [
