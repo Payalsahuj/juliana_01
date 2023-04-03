@@ -2,6 +2,7 @@
     "lipstick": [
       {
         "id": 1,
+        "amount":1,
         "name": "Matte As Hell Crayon Lipstick",
         "price": 849,
         "type": [
@@ -92,6 +93,7 @@
       },
       {
         "id": 2,
+        "amount":1,
         "name": "Smudge Me Not Liquid Lipstick",
         "price": 425,
         "type": [
@@ -182,6 +184,7 @@
       },
       {
         "id": 3,
+        "amount":1,
         "name": "Matte Attack Transferproof Lipstick",
         "price": 749,
         "type": [
@@ -271,6 +274,7 @@
       },
       {
         "id": 4,
+        "amount":1,
         "name": "Air Kiss Powder Lipstick ",
         "price": 425,
         "type": [
@@ -361,6 +365,7 @@
       },
       {
         "id": 5,
+        "amount":1,
         "name": "Mettle Satin Lipstick",
         "price": 850,
         "type": [
@@ -428,6 +433,7 @@
       },
       {
         "id": 6,
+        "amount":1,
         "name": "Lipping On The Edge Lip Liner",
         "price": 447,
         "type": [
@@ -487,6 +493,7 @@
       },
       {
         "id": 7,
+        "amount":1,
         "name": "Mousse Muse Maskproof Lip Cream",
         "price": 599,
         "type": [
@@ -567,6 +574,7 @@
       },
       {
         "id": 8,
+        "amount":1,
         "name": "SUGAR Tipsy Lips Scrub + Balm Duo",
         "price": 499,
         "type": [
@@ -610,6 +618,7 @@
       },
       {
         "id": 9,
+        "amount":1,
         "name": "Lip Service Tint Remover",
         "price": 340,
         "type": [
@@ -648,6 +657,7 @@
       },
       {
         "id": 10,
+        "amount":1,
         "name": "Lip Service Tint Remover",
         "price": 340,
         "type": [
@@ -686,6 +696,7 @@
       },
       {
         "id": 11,
+        "amount":1,
         "name": "Matte As Hell Crayon Lipstick",
         "price": 849,
         "type": [
@@ -776,6 +787,7 @@
       },
       {
         "id": 12,
+        "amount":1,
         "name": "Smudge Me Not Liquid Lipstick",
         "price": 425,
         "type": [
@@ -866,6 +878,7 @@
       },
       {
         "id": 13,
+        "amount":1,
         "name": "Matte Attack Transferproof Lipstick",
         "price": 749,
         "type": [
@@ -955,6 +968,7 @@
       },
       {
         "id": 14,
+        "amount":1,
         "name": "Air Kiss Powder Lipstick ",
         "price": 425,
         "type": [
@@ -1045,6 +1059,7 @@
       },
       {
         "id": 15,
+        "amount":1,
         "name": "Mettle Satin Lipstick",
         "price": 850,
         "type": [
@@ -1112,6 +1127,7 @@
       },
       {
         "id": 16,
+        "amount":1,
         "name": "Lipping On The Edge Lip Liner",
         "price": 447,
         "type": [
@@ -1171,6 +1187,7 @@
       },
       {
         "id": 17,
+        "amount":1,
         "name": "Mousse Muse Maskproof Lip Cream",
         "price": 599,
         "type": [
@@ -1251,6 +1268,7 @@
       },
       {
         "id": 18,
+        "amount":1,
         "name": "SUGAR Tipsy Lips Scrub + Balm Duo",
         "price": 499,
         "type": [
@@ -1294,6 +1312,7 @@
       },
       {
         "id": 19,
+        "amount":1,
         "name": "Lip Service Tint Remover",
         "price": 340,
         "type": [
@@ -1332,6 +1351,7 @@
       },
       {
         "id": 20,
+        "amount":1,
         "name": "Lip Service Tint Remover",
         "price": 340,
         "type": [
